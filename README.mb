@@ -16,7 +16,9 @@ C'est un projet relativement long et complet : l'objectif est a minima que tu pu
 
 
 Version 1.0 : coder un combat entre 2 joueurs
+  Execute 'Ruby app.rb' to get result of this version
 
 Version 2.0 : créer un nouveau type de joueur
+  Execute 'Ruby app_2.rb" to get result of this version
 
 Version 3.0 : un jeu mieux organisé et plus d'ennemis
